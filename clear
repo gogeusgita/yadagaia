@@ -1,0 +1,52 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e69de29..555bcab 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,43 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <meta name="keywords"[m
+[32m+[m[32m        content="html,css,javascript,Lear to build websites, Learn to build applications, Learn to HTML, Learn Css, Learn JavaScript">[m
+[32m+[m[32m    <meta name="description" content="Learn to build websites and application using html css and javascript">[m
+[32m+[m[32m    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[32m+[m[32m    <title>Superior</title>[m
+[32m+[m[32m</head>[m
+[32m+[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <h1>Superior</h1>[m
+[32m+[m[32m    <h2>10/02/2019 04:41pm PNW</h2>[m
+[32m+[m
+[32m+[m[32m    <ul>[m
+[32m+[m[32m        <li>news</li>[m
+[32m+[m[32m        <li>fall/winter 2019 preview</li>[m
+[32m+[m[32m        <li>fall/winter 2019 lookbook</li>[m
+[32m+[m[32m        <li>shop</li>[m
+[32m+[m[32m        <li>random</li>[m
+[32m+[m[32m        <li>about</li>[m
+[32m+[m[32m        <li>stores</li>[m
+[32m+[m[32m        <li>contact</li>[m
+[32m+[m[32m        <li>mailing list</li>[m
+[32m+[m[32m    </ul>[m
+[32m+[m
+[32m+[m[32m    <ul>[m
+[32m+[m[32m        <li>[m
+[32m+[m[32m            facebook[m
+[32m+[m[32m        </li>[m
+[32m+[m[32m        <li>[m
+[32m+[m[32m            instagram[m
+[32m+[m[32m        </li>[m
+[32m+[m[32m        <li>[m
+[32m+[m[32m            app store[m
+[32m+[m[32m        </li>[m
+[32m+[m[32m    </ul>[m
+[32m+[m[32m</body>[m
+[32m+[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/js/mainjss b/js/mainjss[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
